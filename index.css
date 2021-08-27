@@ -1,0 +1,14 @@
+table{
+     background-color: black;
+     color:white;
+     text-align: center;
+    
+      }
+      button{
+        background-color: red;
+        border: 2px solid red;
+        color: white;
+      }
+      #result{
+        color: yellow;
+      }
